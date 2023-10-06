@@ -1,0 +1,7 @@
+2023-10-02 22:43:34.142 | WARNING  | __main__:case_runner:43 - -----------------------------------------------------------------------
+2023-10-02 22:43:34.144 | INFO     | __main__:case_runner:44 - 开始处理【病例管理】页面的接口,共发现3条测试用例
+2023-10-02 22:43:34.146 | INFO     | utils.LogTools:info:14 - ==================================
+2023-10-02 22:43:34.149 | INFO     | utils.LogTools:info:14 - 接口地址：http://43.138.178.63:81/haimo/sass/systemUser/release/getLogin
+2023-10-02 22:43:34.149 | INFO     | utils.LogTools:info:14 - 接口参数：{'userName': 'admin', 'password': 'e10adc3949ba59abbe56e057f20f883e'}
+2023-10-02 22:43:34.151 | INFO     | utils.LogTools:info:14 - 接口方法：post
+2023-10-02 22:43:34.153 | INFO     | utils.LogTools:info:14 - 接口请求头：{}

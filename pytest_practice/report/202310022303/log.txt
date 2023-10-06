@@ -1,0 +1,5 @@
+2023-10-02 23:03:37.310 | INFO     | utils.LogTools:info:14 - ==================================
+2023-10-02 23:03:37.313 | INFO     | utils.LogTools:info:14 - 接口地址：http://43.138.178.63:81/haimo/sass/systemUser/release/getLogin
+2023-10-02 23:03:37.315 | INFO     | utils.LogTools:info:14 - 接口参数：{'userName': 'admin', 'password': 'e10adc3949ba59abbe56e057f20f883e'}
+2023-10-02 23:03:37.317 | INFO     | utils.LogTools:info:14 - 接口方法：post
+2023-10-02 23:03:37.319 | INFO     | utils.LogTools:info:14 - 接口请求头：{}
